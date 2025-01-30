@@ -21,7 +21,7 @@ repository               : "besutodesuka/besutodesuka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "best pic.png"
+  avatar           : "best pic.jpg"
   name             : "Best's life"
   pronouns         : # example: "she/her"  
   bio              : "former Thailand physic Olympic19th participant. love in experiment and analysis. Currently, working on AI, especially CV, SLM, and Retrieval system"
